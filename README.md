@@ -12,8 +12,8 @@ J. Chen, M. Yang, C. Peng, L. Luo and W. Gong, "Robust Feature Matching via Loca
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Robust Feature Matching via Local Consensus}, 
   year={2022},
-  volume={},
+  volume={60},
   number={},
-  pages={1-1},
+  pages={1-16},
   doi={10.1109/TGRS.2022.3151226}}
 ```
