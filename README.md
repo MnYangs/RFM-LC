@@ -6,6 +6,8 @@ RFM-LC requires VLfeat. You can download it at: [https://www.vlfeat.org](https:/
 ## Citation
 Please refer to our following papers for algorithm details:
 J. Chen, M. Yang, C. Peng, L. Luo and W. Gong, "Robust Feature Matching via Local Consensus," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2022.3151226.
+https://ieeexplore.ieee.org/document/9712312
+
 ```javascript
 @ARTICLE{9712312,
   author={Chen, Jun and Yang, Meng and Peng, Chengli and Luo, Linbo and Gong, Wenping},
